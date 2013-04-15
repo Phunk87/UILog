@@ -10,4 +10,9 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)buttonAPressed:(id)sender;
+- (IBAction)buttonBPressed:(id)sender;
+- (IBAction)buttonCPressed:(id)sender;
+- (IBAction)buttonDPressed:(id)sender;
+
 @end

@@ -26,4 +26,19 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)buttonAPressed:(id)sender {
+    UILogPush(@"Button A Pressed");
+}
+
+- (IBAction)buttonBPressed:(id)sender {
+    UILogPush(@"Button B Pressed");
+}
+
+- (IBAction)buttonCPressed:(id)sender {
+    UILogPush(@"Button C Pressed");
+}
+
+- (IBAction)buttonDPressed:(id)sender {
+    UILogPush(@"Button D Pressed");
+}
 @end

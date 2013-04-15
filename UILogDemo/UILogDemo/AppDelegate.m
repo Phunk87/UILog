@@ -30,6 +30,9 @@
     }
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
+    
+    UILogSetWindow(self.window);
+    
     return YES;
 }
 
