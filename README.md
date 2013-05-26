@@ -26,6 +26,7 @@ Thank you!
 You can donate me
 via:
 * [Alipay | 支付宝](https://me.alipay.com/0dayzh)
+* Bitcoin: 1DK98CTQ3hXb2j3VD7Tbz4v16ytZJhtPWv
 
 ## License
 ===========
